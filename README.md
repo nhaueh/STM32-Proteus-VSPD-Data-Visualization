@@ -28,8 +28,8 @@ This project demonstrates a complete integration workflow for embedded systems: 
 
 
 #### **2️⃣ Schematic Design & Virtual Prototyping 🧩 (Proteus)**
-- Constructed the hardware model featuring the **STM32L031K6** microcontroller.
-- Integrated a **16x2 LCD (HD44780)** for local status display.
+- Constructed the hardware model featuring the **STM32F103C8T6** microcontroller.
+- Integrated a **16x2 LCD (LM016L)** for local status display.
 - Implemented the **COMPIM** module to act as the physical-to-virtual serial gateway.
 ![alt text]({79055A5B-F4FF-4A6A-910D-8A6EA2FFCE50}.png)
 
