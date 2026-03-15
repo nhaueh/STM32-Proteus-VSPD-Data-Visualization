@@ -1,7 +1,7 @@
 # 🛰️ STM32 Virtual HIL: UART Bridge to PC Plotter 📈
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STM32-L031K6-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-C8T6-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Proteus-8.15-005D91?style=for-the-badge&logo=proteus&logoColor=white" />
   <img src="https://img.shields.io/badge/VSPD-Virtual_COM-FFD700?style=for-the-badge&logo=data-bridge&logoColor=black" />
   <img src="https://img.shields.io/badge/PlatformIO-IDE-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
